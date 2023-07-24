@@ -20,7 +20,7 @@ function Slider({ data }) {
       const transformX = (window.scrollY - offsetTop) / $container.current.offsetHeight;
       const newState = Math.max(Math.min(transformX, coefficient), 0) * 100;
 
-      if (newState !== 0 && newState < coefficient * 100) setScale(1 + transformX / 3);
+      if (newState !== 0 && newState < coefficient * 100) setScale(1 + transformX / 2);
 
       setRealX(newState);
     }
