@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/circeya/static/css/main.bd7a1920.css",
-    "main.js": "/circeya/static/js/main.fa1ce595.js",
+    "main.js": "/circeya/static/js/main.8e376aa7.js",
     "static/media/OrchideaPro-Medium.svg": "/circeya/static/media/OrchideaPro-Medium.c72691195f5bb2f9f502.svg",
     "static/media/OrchideaPro-Bold.svg": "/circeya/static/media/OrchideaPro-Bold.eeb198e55c4c98a75595.svg",
     "static/media/OrchideaPro-ExtraLight.svg": "/circeya/static/media/OrchideaPro-ExtraLight.631f4e2805ee079d7d23.svg",
@@ -120,10 +120,10 @@
     "static/media/phone.svg": "/circeya/static/media/phone.d5aafa2606c29c81ea4f28e479264a5e.svg",
     "index.html": "/circeya/index.html",
     "main.bd7a1920.css.map": "/circeya/static/css/main.bd7a1920.css.map",
-    "main.fa1ce595.js.map": "/circeya/static/js/main.fa1ce595.js.map"
+    "main.8e376aa7.js.map": "/circeya/static/js/main.8e376aa7.js.map"
   },
   "entrypoints": [
     "static/css/main.bd7a1920.css",
-    "static/js/main.fa1ce595.js"
+    "static/js/main.8e376aa7.js"
   ]
 }
