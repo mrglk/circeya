@@ -1,0 +1,24 @@
+.Footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  background-color: var(--black);
+  height: 200px;
+  margin-top: 160px;
+}
+
+.Footer__text {
+  text-align: center;
+  color: var(--white);
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 23px;
+}
+
+
+@media screen and (max-width: 950px) {
+  .Footer {
+    margin-top: 70px;
+  }
+}

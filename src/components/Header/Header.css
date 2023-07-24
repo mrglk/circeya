@@ -1,0 +1,67 @@
+.Header {
+  background: linear-gradient(360deg, #464341 0%, #010101 100%);
+  height: 100px;
+  margin-bottom: 200px;
+}
+
+.Header__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Header__logo {
+  width: 213px;
+}
+
+.Header__phone {
+  text-decoration: none;
+  color: var(--white);
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Manrope", sans-serif;
+}
+
+.Header__phone svg {
+  display: none;
+  width: 24px;
+}
+
+@media screen and (max-width: 17000px) {
+  .Header {
+    margin-bottom: 140px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .Header {
+    margin-bottom: 120px;
+  }
+
+  .Header__logo {
+    width: 158px;
+  }
+
+  .Header__phone {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .Header {
+    height: 60px;
+    margin-bottom: 72px;
+  }
+
+  .Header__logo {
+    width: 118px;
+  }
+
+  .Header__phone p {
+    display: none;
+  }
+
+  .Header__phone svg {
+    display: block;
+  }
+}

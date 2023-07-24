@@ -1,0 +1,260 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-ExtraBold.eot');
+    src: url('../assets/fonts/Manrope/Manrope-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-ExtraBold.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-ExtraBold.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-ExtraBold.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-ExtraBold.svg#Manrope-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-Regular.eot');
+    src: url('../assets/fonts/Manrope/Manrope-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-Regular.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-Regular.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-Regular.svg#Manrope-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-SemiBold.eot');
+    src: url('../assets/fonts/Manrope/Manrope-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-SemiBold.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-SemiBold.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-SemiBold.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-SemiBold.svg#Manrope-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-Bold.eot');
+    src: url('../assets/fonts/Manrope/Manrope-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-Bold.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-Bold.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-Bold.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-Bold.svg#Manrope-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-Medium.eot');
+    src: url('../assets/fonts/Manrope/Manrope-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-Medium.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-Medium.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-Medium.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-Medium.svg#Manrope-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-Light.eot');
+    src: url('../assets/fonts/Manrope/Manrope-Light.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-Light.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-Light.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-Light.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-Light.svg#Manrope-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('../assets/fonts/Manrope/Manrope-ExtraLight.eot');
+    src: url('../assets/fonts/Manrope/Manrope-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Manrope/Manrope-ExtraLight.woff2') format('woff2'),
+        url('../assets/fonts/Manrope/Manrope-ExtraLight.woff') format('woff'),
+        url('../assets/fonts/Manrope/Manrope-ExtraLight.ttf') format('truetype'),
+        url('../assets/fonts/Manrope/Manrope-ExtraLight.svg#Manrope-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Black.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Black.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Black.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Black.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Black.svg#OrchideaPro-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-BoldItalic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BoldItalic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BoldItalic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BoldItalic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BoldItalic.svg#OrchideaPro-BoldItalic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-BlackItalic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BlackItalic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BlackItalic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BlackItalic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-BlackItalic.svg#OrchideaPro-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Bold.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Bold.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Bold.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Bold.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Bold.svg#OrchideaPro-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBold.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBold.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBold.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBold.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBold.svg#OrchideaPro-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBoldItalic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBoldItalic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBoldItalic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBoldItalic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraBoldItalic.svg#OrchideaPro-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLightItalic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLightItalic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLightItalic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLightItalic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLightItalic.svg#OrchideaPro-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLight.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLight.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLight.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLight.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-ExtraLight.svg#OrchideaPro-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Light.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Light.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Light.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Light.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Light.svg#OrchideaPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Italic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Italic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Italic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Italic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Italic.svg#OrchideaPro-Italic') format('svg');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro Md';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-MediumItalic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-MediumItalic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-MediumItalic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-MediumItalic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-MediumItalic.svg#OrchideaPro-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-LightItalic.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-LightItalic.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-LightItalic.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-LightItalic.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-LightItalic.svg#OrchideaPro-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Orchidea Pro';
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Medium.eot');
+    src: url('../assets/fonts/OrchideaPro/OrchideaPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Medium.woff2') format('woff2'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Medium.woff') format('woff'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Medium.ttf') format('truetype'),
+        url('../assets/fonts/OrchideaPro/OrchideaPro-Medium.svg#OrchideaPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
